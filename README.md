@@ -1,5 +1,6 @@
-# Mini Projeto - Modelagem de Dados - SCTEC 
-# Tutor: Rodrigo Garcia Brunini
+# Mini Projeto - Visualização de Dados e Business Intelligence 
+# Curso: SENAI/SC - Lab 365 (Módulo: M1S07)
+# Professor: Rodrigo Garcia Brunini
 
 Este repositório contém o desenvolvimento completo do pipeline de engenharia, tratamento e análise estatística de uma base de dados do setor de varejo exportada da plataforma KAGGLE. O objetivo principal do projeto é estruturar dados brutos, aplicar técnicas rigorosas de limpeza (Data Cleaning) e extrair métricas descritivas para suporte à tomada de decisão.
 
